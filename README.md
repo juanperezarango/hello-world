@@ -1,4 +1,8 @@
 # hello-world
-My first repository in GitHub
-This is a milestone for me since I decided to start using GitHub today as a first step for becoming a data user in a Climate Science
-context. So happy for it!
+
+Hello Githubbers!
+
+This is my first repository in GitHub.
+
+My name is Juan and as a Climate Scientist this is a milestone for me since I decided to start using GitHub today as a tool to better track my research work in Climate Science
+
